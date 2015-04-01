@@ -1,0 +1,14 @@
+{
+    "name": "Translate-me",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "This allows you to transate foreign words faster.",
+    
+    "permissions": [
+        "contextMenus"
+    ],
+    
+    "background": {
+        "scripts": ["translator.js"]
+    }
+}
